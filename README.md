@@ -1,2 +1,1 @@
-Первый проект
-(Ссылка на проект)[https://github.com/YakovlevUsinsk/ono-tebe-nado-fd]
+https://github.com/YakovlevUsinsk/ono-tebe-nado-fd
